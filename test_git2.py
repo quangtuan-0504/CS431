@@ -4,3 +4,5 @@
 #kho lưu trữ để lưu các bản sao thay đổi của các file
 #thay đổi mà ko commit thì nó k lưu vào kho lư trữ
 #mỗi ng lm 1 file rồi lưu vào chung 1 thư mục, nhiều ng lm trên 1 file sẽ gây xunh đột, phải sửa lần lượt
+
+#wa hay
