@@ -1,0 +1,1 @@
+# giống kiểu ta theo dõi 1 file(staging area) nếu file đó mà thay đổi gì thì lưu lại(commit)
